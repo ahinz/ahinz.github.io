@@ -1,2 +1,3 @@
 ---
-pygments: true
+highlighter: rouge
+exclude: ['vendor']
